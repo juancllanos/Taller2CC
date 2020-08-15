@@ -1,7 +1,7 @@
 from socket import *
 
 
-servidorNombre = "34.203.29.200" 
+servidorNombre = "100.25.30.254" 
 servidorPuerto = 12000
 
 
