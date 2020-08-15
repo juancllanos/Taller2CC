@@ -46,8 +46,8 @@ while 1:
     print("Mensaje recibido de ", clienteDireccion)
     print(mensaje)
     msj = mensaje.split(" ")
-    print(msj)
-    print(msj[0])
+    #print(msj)
+    #print(msj[0])
     if msj[0] == "saldo":
         mensajeRespuesta = saldo()
     if msj[0] == "debitar":
